@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZSpeedCheck</string>
+    <string name="action_settings">Settings</string>
+    <string name="getcurrspeed">Get Current Speed</string>
+    <string name="info">Waiting for GPS...</string>
+    <string name="gpssetting">GPS is setting</string>
+    <string name="gpsnotenabled">GPS is not enabled. Do you want to go to settings menu?</string>
+
+
+</resources>
